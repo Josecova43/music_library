@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"name": "music_library",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
